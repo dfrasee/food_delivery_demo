@@ -13,7 +13,7 @@
         }
     },
     "schemes": ["http"],
-    "host": "https://noi-food-delivery.herokuapp.com",
+    "host": "noi-food-delivery.herokuapp.com",
     "basePath": "/api",
     "paths" : {
         "/get_opening_restaurants" : {
