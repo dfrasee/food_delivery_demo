@@ -12,7 +12,7 @@
             "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
         }
     },
-    "schemes": ["http"],
+    "schemes": ["https"],
     "host": "noi-food-delivery.herokuapp.com",
     "basePath": "/api",
     "paths" : {
